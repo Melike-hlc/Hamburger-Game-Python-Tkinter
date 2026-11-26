@@ -2,6 +2,8 @@
 
 Read.me must be English.
 
+
+
 Skor kaydı, olay günlüğü ve istatistik grafikleri içeren üç kişilik proje yapısı.
 
 ## Klasör Yapısı
